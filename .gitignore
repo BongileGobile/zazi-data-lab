@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+pgdata/
+localstack-data/
+.DS_Store
+*.parquet
